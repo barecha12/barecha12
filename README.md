@@ -30,17 +30,18 @@ I enjoy solving real-world problems through clean code, smart architecture, and 
 ---
 
 ## 🚀 Featured Projects
-🛒 **Multivendor E-Commerce Web Application**  
-Full-featured e-commerce platform with vendor, admin, and user roles.  
-Built with **React (frontend)** + **Laravel (backend)** + **MySQL (database)**  
 
-💼 **Job Portal**  
-Internship project at Adama Science and Technology University.  
-Helps connect job seekers with employers.  
+### 🛒 [Multivendor E-Commerce Web Application](https://github.com/barecha12/multivendor-ecommerce)
+![E-Commerce](https://raw.githubusercontent.com/barecha12/multivendor-ecommerce/main/screenshot.png)  
+Full-featured e-commerce platform with vendor, admin, and user roles. Built with **React (frontend) + Laravel (backend) + MySQL (database)**.
 
-📚 **Community Reading List**  
-Book management platform with Google Books API integration.  
-Built with **PHP** and **MySQL**.  
+### 💼 [Job Portal](https://github.com/barecha12/job-portal)
+![Job Portal](https://raw.githubusercontent.com/barecha12/job-portal/main/screenshot.png)  
+Internship project at Adama Science and Technology University. Connects job seekers with employers. Built with **Laravel + PHP + MySQL**.
+
+### 📚 [Community Reading List](https://github.com/barecha12/community-reading-list)
+![Reading List](https://raw.githubusercontent.com/barecha12/community-reading-list/main/screenshot.png)  
+Book management platform with Google Books API integration. Built with **PHP + MySQL**.
 
 ---
 
