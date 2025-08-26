@@ -31,8 +31,8 @@ I enjoy solving real-world problems through clean code, smart architecture, and 
 
 ## 🚀 Featured Projects
 
-### 🛒 [Multivendor E-Commerce Web Application](https://github.com/barecha12/multivendor-ecommerce)
-![E-Commerce](https://raw.githubusercontent.com/barecha12/multivendor-ecommerce/main/screenshot.png)  
+### 🛒 [Multivendor E-Commerce Web Application](https://github.com/barecha12/Ecommerce)
+![E-Commerce](https://raw.githubusercontent.com/barecha12/Ecommerce/main/screenshot.png)  
 Full-featured e-commerce platform with vendor, admin, and user roles. Built with **React (frontend) + Laravel (backend) + MySQL (database)**.
 
 ### 💼 [Job Portal](https://github.com/barecha12/job-portal)
