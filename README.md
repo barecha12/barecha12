@@ -45,7 +45,9 @@ Built with **PHP** and **MySQL**.
 ---
 
 ## 📊 GitHub Stats
-![Barecha’s GitHub stats](https://github-readme-stats.vercel.app/api?username=barecha12&show_icons=true&theme=radical)
+![Barecha’s GitHub stats](https://github-readme-stats.vercel.app/api?username=barecha12&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=barecha12&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barecha12&layout=compact&theme=radical)  
 
 ---
 
@@ -53,6 +55,11 @@ Built with **PHP** and **MySQL**.
 📧 **Email:** [ashenafibarecha34@gmail.com](mailto:ashenafibarecha34@gmail.com)  
 🌐 **GitHub:** [github.com/barecha12](https://github.com/barecha12)  
 💼 **Portfolio:** Coming Soon  
+
+---
+
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=barecha12&color=blue&style=flat-square)  
 
 ---
 
